@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  
-Hello! I'm Shivam Singh, a passionate software developer with expertise in 6 month. I love building innovative solutions and contributing to open source projects. I have a strong background in Automation and enjoy working on projects that have a positive impact.
+Hello! I'm Shivam Singh, a passionate software developer with expertise in 1 year. I love building innovative solutions and contributing to open source projects. I have a strong background in Automation and enjoy working on projects that have a positive impact.
 
 In this GitHub profile, you'll find a collection of my open source projects, contributions, and experiments. I believe in the power of collaboration and enjoy connecting with fellow developers and creators.
 
